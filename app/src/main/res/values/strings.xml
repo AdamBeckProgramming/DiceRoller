@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_roll">Roll</string>
+    <string name="button_hold">Hold</string>
+    <string name="button_reset">Reset</string>
+    <string name="scores" formatted="false">Your Score: %1$d Computer Score: %2$d &#10; Current turn: %3$d</string>
+    <string name="title_activity_dice">DiceActivity</string>
+</resources>
